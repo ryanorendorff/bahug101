@@ -153,7 +153,7 @@ allows for some interesting things.
 
 As a downside, it can be challenging to reason about the space and
 time a functional program/algorithm will take.^[See Chris Okasaki's
-"Purely Functional Algorithms" for more details]
+"Purely Functional Data Structures" for more details]
 
 
 Let's write some Haskell!
@@ -207,7 +207,7 @@ We can have standard integers.
 > i = -78
 
 There is no guarantee that an integer has a certain size, only that it
-has to accomodate up to $2^{29}$ (536,870,912). For example, mine is
+has to accommodate up to $2^{29}$ (536,870,912). For example, mine is
 $2^{63}$ (a very large number).^[Can get by running `maxBound :: Int` in GHCi]
 
 
