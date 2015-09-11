@@ -15,12 +15,12 @@ Outline of the Course
 Thanks to the UPenn guys
 ------------------------
 
-The material is from the CS194 course taught at UPenn by Richard
+The material is from the CIS194 course taught at UPenn by Richard
 Eisenberg, Brent Yorgey, and Noam Zolberstein. The vast majority of
 this course (including the outline and code in this lecture) is their
 cirriculum. Thanks!
 
-The CS194 course material can be found at
+The CIS194 course material can be found at
 [http://www.seas.upenn.edu/~cis194/](http://www.seas.upenn.edu/~cis194/). We
 will be following the Spring 2015 course.
 
