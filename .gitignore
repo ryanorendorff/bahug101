@@ -94,6 +94,9 @@ target/
 ## TeX Ignore (from GitHub) ##
 ##############################
 
+## ignore TeX itself!
+*.tex
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
