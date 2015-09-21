@@ -1,5 +1,5 @@
 % BAHUG 101 - Lecture 1
-% 13th September 2015
+% 9th September 2015
 
 
 Outline of the Course
