@@ -1,5 +1,5 @@
 # This is to make the expansion in clean work.
-SHELL=/bin/bash
+SHELL:=$(shell which bash)
 
 FILEBASE:=$(shell find . -name "Bahug101Lec*.lhs" | cut -c 3- \
 									| cut -d '.' -f 1)
