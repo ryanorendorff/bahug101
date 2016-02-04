@@ -417,10 +417,12 @@ The `Monad` instance for a list is
 
 . . .
 
-> ex07 = [10,20,30] >>= \x -> [x+1, x+2]
+> addOneOrTwo = \x -> [x+1, x+2]
+>
+> ex07 = [10,20,30] >>= addOneOrTwo
 > ex08 = do
 >   num <- [10, 20, 30]
->   (\x -> [x+1, x+2]) num
+>   addOneOrTwo num
 
 . . .
 
